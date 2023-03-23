@@ -1,0 +1,7 @@
+.header{
+    height: 60px;
+    background-color: black;
+    color: white;
+    margin: 0px !important;
+    flex-direction: column;
+}

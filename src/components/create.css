@@ -1,0 +1,53 @@
+/* form{
+    background-color: white;
+    padding: 0px 60px;
+    border-radius: 10px;
+    height: 650px;
+} */
+
+/* input{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    padding: 10px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+h1{
+    text-align: center;
+}
+
+#check{
+    display: block !important;
+    width: 20px;
+} */
+
+/* select{
+    display: flex;
+    width: 100%;
+    margin: 10px 0px;
+    height: 30px;
+}
+
+.radioGender input{
+    width: 10px;
+    display: inline;
+    margin: 15px 5px;
+}
+
+button{
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 30px;
+} */

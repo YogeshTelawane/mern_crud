@@ -1,0 +1,12 @@
+.headings{
+    background-color: black;
+}
+
+.table>thead>tr>td{
+    background-color: #67096c;
+    color: white;
+}
+
+.table{
+    border-radius: 10px !important;
+}
